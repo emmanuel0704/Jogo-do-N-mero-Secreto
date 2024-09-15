@@ -56,3 +56,5 @@ Abra o arquivo `index.html` em um navegador para começar a jogar. O jogo funcio
 ---
 
 Este jogo é uma maneira simples e divertida de praticar JavaScript, manipulação de DOM e estilização CSS.
+
+Projeto feito no curso de lógica de programação da Alura.
